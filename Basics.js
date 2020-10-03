@@ -60,6 +60,7 @@ console.log(car.drive);
 console.log(car["engine"]);
 //Updating the objects
 car["Torque"] = "805Nm";
+car["Price"] = "$50000";
 //Adding a property
 car[price] = "$45000"
 //deleting a property
