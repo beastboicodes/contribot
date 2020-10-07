@@ -80,6 +80,7 @@ var storage ={
     "bottom drawer": "soda"
 };
 storage.desk.drawer;
+storage.cabinet.folder1;
 //Use dot notation for all properties where possible
 
 //ternary operator
