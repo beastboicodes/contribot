@@ -42,6 +42,8 @@ var del = nestArr.shift();
 //unshift() adds element to the beginning of the array
 nestArr.unshift([1,2,3,4,5,6,"69"]);
 
+console.log("Element added at 0 point");
+
 //Variables defined outside of function block have global scope
 //A function which does return anything internally has a return value undefined
 
